@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">FIM</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change BOTH strings as required -->
+    <string name="back4app_app_id">FxGPlnRiE4zm7dBG5PaU9qW7TdeSwrHzhiQ2SU5F</string>
+    <string name="back4app_client_key">5eVFWOkr13gatVeLwPNO5H3hvqq9xrantpUlSXPL</string>
+
+    <string-array name="category_array">
+        <item>Select Category</item>
+        <item>Tile</item>
+        <item>Stone</item>
+        <item>Wood</item>
+        <item>Laminate</item>
+        <item>Vinyl</item>
+    </string-array>
+
+    <string-array name="store_array">
+        <item>Select Store</item>
+        <item>Flushing</item>
+        <item>Manhattan</item>
+        <item>Morris Park</item>
+        <item>Hicksville</item>
+    </string-array>
+
+    <string-array name="tile_type_array">
+        <item>Select Type</item>
+        <item>Porcelain</item>
+        <item>Ceramic</item>
+        <item>Resin</item>
+    </string-array>
+
+    <string-array name="stone_type_array">
+        <item>Select Type</item>
+        <item>Marble</item>
+        <item>Pebble</item>
+        <item>Slate</item>
+    </string-array>
+
+    <string-array name="wood_type_array">
+        <item>Select Type</item>
+        <item>Solid</item>
+        <item>Engineered</item>
+        <item>Bamboo</item>
+    </string-array>
+
+    <string-array name="laminate_type_array">
+        <item>Select Type</item>
+        <item>Regular</item>
+        <item>Water Resistant</item>
+    </string-array>
+
+    <string-array name="vinyl_type_array">
+        <item>Select Type</item>
+        <item>Water Resistant</item>
+        <item>Water Proof</item>
+    </string-array>
+
+    <string-array name="wood_species_array">
+        <item>Select Species</item>
+        <item>Oak</item>
+        <item>Hickory</item>
+        <item>Maple</item>
+    </string-array>
+
+    <string-array name="empty">
+    </string-array>
+
+</resources>

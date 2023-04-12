@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/employee_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item android:id="@+id/employee_add"
+        android:title="add"
+        android:icon="@drawable/ic_baseline_add_24"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/employee_item_flushing"
+        android:title="Flushing"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/employee_item_manhattan"
+        android:title="Manhattan"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/employee_item_morris_park"
+        android:title="Morris Park"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/employee_item_hicksville"
+        android:title="Hicksville"
+        app:showAsAction="never"  />
+
+</menu>

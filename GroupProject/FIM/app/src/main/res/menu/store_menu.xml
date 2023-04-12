@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/menu_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always|withText"
+        android:title="search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item android:id="@+id/item_flushing"
+        android:title="Flushing"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/item_manhattan"
+        android:title="Manhattan"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/item_morris_park"
+        android:title="Morris Park"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/item_hicksville"
+        android:title="Hicksville"
+        app:showAsAction="never"  />
+
+</menu>
