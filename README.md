@@ -1,2 +1,4 @@
-# 370Spring22Sec34Team2
+# Flooring Icon Manager
+
+#### Your all-in-one tool for handling both tile inventory and customers!
 
